@@ -1,12 +1,12 @@
 import Layout from './components/Layout/Layout';
-
+import React from 'react';
 import './App.css';
+import FormApp from './components/FormApp/FormApp';
 
 function App() {
   return (
     <Layout>
-      <h1>Home Work #2.2</h1>
-      <div>Hello</div>
+      <FormApp />
     </Layout>
   );
 }

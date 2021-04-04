@@ -23,14 +23,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-image: url('./img/bg.png');
 }
 
 a,
 a:visited,
 a:hover,
 a:focus {
-  text-decoration: none;
 }
 
 img {
